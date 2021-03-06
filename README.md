@@ -17,6 +17,6 @@
 - Loves programming using anything language about anything (but not typeless languages like **PYTHON**)
 - Also loves mbed programming and can do naive hardware design
 - Learning security related stuff, like reverse engineering, pwn, etc
-- Interested in game designing, yet can't paint or compose (miHoYo please hire me)
+- Interested in game designing, yet can't paint or compose **(miHoYo please hire me)**
 - Loves playing JRPG, 3A games, rhythm games
  
