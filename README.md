@@ -1,6 +1,6 @@
 <h2 align="center">这里是 k1ee (Schwarzer) 👋</h2> 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=cnSchwarzer&show_icons=true&hide_border=true&theme=default"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=cnSchwarzer&show_icons=true&hide_border=true&theme=default&locale=cn"/>
 
 ## 自我介绍
 - 东南大学网络空间安全学院在读研究生
