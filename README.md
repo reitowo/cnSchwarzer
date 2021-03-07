@@ -14,10 +14,10 @@
 ## 博客及社交媒体
 - [个人主页](https://www.schwarzer.wang)
 - [Bilibili](https://space.bilibili.com/2305653)
-- [安全客](https://www.anquanke.com/member/155096) （主要投稿平台）
+- [安全客](https://www.anquanke.com/member/155096)（主要投稿平台）
 - [私人小站](https://blog.schwarzer.wang)（安全客不收就放这里）
-- [CSDN](https://blog.csdn.net/schwarzer_w) (早期作品）
+- [CSDN](https://blog.csdn.net/schwarzer_w)（早期作品）
 
 ## 一些我自己认为用心写的博客
-- [国服Cytus2解密与C#注入](https://blog.csdn.net/schwarzer_w/article/details/90238069)
+- [国服Cytus2解密与C#注入](https://blog.schwarzer.wang/2019/07/20/sec.android.cytus2/)
 - 其他的也挺用心写的，但都是一些研究片段，还请看博客吧~
