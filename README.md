@@ -1,6 +1,6 @@
 <h2 align="center">这里是 k1ee (Schwarzer) 👋</h2> 
 
-![](https://github-profile-trophy.vercel.app/?username=cnSchwarzer&column=3&row=2)
+![](https://github-profile-trophy.vercel.app/?username=cnSchwarzer&column=10)
 ![](https://github-readme-stats.vercel.app/api?username=cnSchwarzer&show_icons=true&hide_border=true&theme=default&locale=cn) 
   
 ## 自我介绍 
