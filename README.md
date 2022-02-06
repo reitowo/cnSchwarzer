@@ -1,6 +1,6 @@
 <h2 align="center">这里是 k1ee (Schwarzer) 👋</h2> 
 
-<img src="https://github-profile-trophy.vercel.app/?username=cnSchwarzer&column=4"/>
+<img align="left" src="https://github-profile-trophy.vercel.app/?username=cnSchwarzer&column=4"/>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=cnSchwarzer&show_icons=true&hide_border=true&theme=default&locale=cn"/> 
 
