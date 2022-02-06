@@ -1,7 +1,7 @@
 <h2 align="center">这里是 k1ee (Schwarzer) 👋</h2> 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=cnSchwarzer&show_icons=true&hide_border=true&theme=default&locale=cn"/>
-[trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=cnSchwarzer)](https://github.com/cnSchwarzer/github-profile-trophy) 
 
 ## 自我介绍 
 - 正研究LLVM
