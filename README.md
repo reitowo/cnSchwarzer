@@ -1,9 +1,15 @@
+
+
 <h2 align="center">这里是 k1ee (Schwarzer) 👋</h2> 
-
-<img align="left" src="https://github-profile-trophy.vercel.app/?username=cnSchwarzer&column=4"/>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=cnSchwarzer&show_icons=true&hide_border=true&theme=default&locale=cn"/> 
-
+<div>
+    <div class="inline-block">
+      <img src="https://github-profile-trophy.vercel.app/?username=cnSchwarzer&column=4"/> 
+    </div> 
+    <div class="inline-block">
+        <img src="https://github-readme-stats.vercel.app/api?username=cnSchwarzer&show_icons=true&hide_border=true&theme=default&locale=cn"/>  
+    </div> 
+</div>
+  
 ## 自我介绍 
 - 正研究LLVM
 - 热爱游戏设计，自己用Unity做过不少[东西](https://www.schwarzer.wang)，目前有一款上线运行的游戏[Layesta](https://www.taptap.com/app/159199)（**想去米哈游**）
