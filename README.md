@@ -1,14 +1,7 @@
-
-
 <h2 align="center">这里是 k1ee (Schwarzer) 👋</h2> 
-<div>
-    <div class="inline-block">
-      <img src="https://github-profile-trophy.vercel.app/?username=cnSchwarzer&column=3&row=2"/> 
-    </div> 
-    <div class="inline-block">
-        <img src="https://github-readme-stats.vercel.app/api?username=cnSchwarzer&show_icons=true&hide_border=true&theme=default&locale=cn"/>  
-    </div> 
-</div>
+
+![](https://github-profile-trophy.vercel.app/?username=cnSchwarzer&column=3&row=2)
+![](https://github-readme-stats.vercel.app/api?username=cnSchwarzer&show_icons=true&hide_border=true&theme=default&locale=cn) 
   
 ## 自我介绍 
 - 正研究LLVM
