@@ -1,10 +1,10 @@
 <h2 align="center">这里是 k1ee (Schwarzer) 👋</h2> 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=cnSchwarzer&show_icons=true&hide_border=true&theme=default&locale=cn"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 自我介绍
-- 东南大学网络空间安全学院在读研究生
-- 佛系科研，正研究LLVM
+## 自我介绍 
+- 正研究LLVM
 - 热爱游戏设计，自己用Unity做过不少[东西](https://www.schwarzer.wang)，目前有一款上线运行的游戏[Layesta](https://www.taptap.com/app/159199)（**想去米哈游**）
 - 热爱编程，特别是C++与C#，而且什么语言都能用（但讨厌弱类型科学语言如**python**，有时为了方便也会去用）
 - 嵌入式（STM32等）与FPGA（Xilinx），也会一点儿硬件设计
