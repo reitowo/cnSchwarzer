@@ -4,12 +4,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=cnSchwarzer&column=10)
   
 ## 自我介绍 
-- 正研究LLVM
-- 喜欢游戏设计，自己用Unity做过不少[东西](https://www.sch.ink)，目前有一款上线运行的游戏[Layesta](https://www.taptap.com/app/159199)（**想去米哈游**）
-- 热爱编程，特别是C++与C#，而且什么语言都能用（但讨厌弱类型科学语言如**python**，有时为了方便也会去用）
-- 嵌入式（STM32等）与FPGA（Xilinx），也会一点儿硬件设计
-- 在学安全，主攻逆向
-- 爱玩JRPG（轨迹系列），音乐游戏，喜欢GTA5，也玩玩独立游戏
+- 什么都玩点
 
 ## 博客及社交媒体
 - [个人主页](https://www.sch.ink)
