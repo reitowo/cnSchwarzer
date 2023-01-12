@@ -1,6 +1,6 @@
 <h2 align="center">19岁超天才猫猫科学家铃当Reito o(=•ェ•=)m</h2> 
 
-![](https://github-readme-stats.vercel.app/api?user=cnSchwarzer&show_icons=true&hide_border=true&theme=default&locale=cn) 
+![](https://github-readme-stats.vercel.app/api?username=cnSchwarzer&show_icons=true&hide_border=true&theme=default&locale=cn) 
 ![](https://github-profile-trophy.vercel.app/?username=cnSchwarzer&column=10)
   
 ## 自我介绍 
