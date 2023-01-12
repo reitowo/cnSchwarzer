@@ -4,7 +4,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=cnSchwarzer&column=10)
   
 ## 自我介绍 
-- 什么都玩点
+- 什么都玩点（除了AI)
 
 ## 博客及社交媒体
 - [个人主页](https://www.sch.ink)
