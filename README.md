@@ -4,6 +4,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=cnSchwarzer&column=10)
 
 ## [最新项目](https://github.com/reitovo)
+新项目都挪到Organization去了喵
   
 ## 自我介绍 
 - 什么都玩点（除了AI)
