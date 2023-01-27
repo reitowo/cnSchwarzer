@@ -3,8 +3,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=cnSchwarzer&show_icons=true&hide_border=true&theme=default&locale=cn) 
 ![](https://github-profile-trophy.vercel.app/?username=cnSchwarzer&column=10)
 
-## [最新项目](https://github.com/reitovo)
-❤ 新项目都挪到Organization去了喵
+## 最新项目
+❤ 新项目都挪到 [reitovo](https://github.com/reitovo) 去了喵
   
 ## 自我介绍 
 💡 什么都玩点（除了AI)
