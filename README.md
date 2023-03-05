@@ -7,7 +7,7 @@
 ❤ 新项目都挪到 [reitovo](https://github.com/reitovo) 去了喵
   
 ## 自我介绍 
-💡 什么都玩点（除了AI)
+💡 什么都玩点
 
 ## 博客及社交媒体
 - [个人主页](https://www.sch.ink)
