@@ -1,10 +1,10 @@
-<h2 align="center">19岁超天才猫猫科学家铃当Reito o(=•ェ•=)m</h2> 
+<h2 align="center">超天才猫猫科学家铃当Reito🐱</h2> 
 
 ![](https://github-readme-stats.vercel.app/api?username=cnSchwarzer&show_icons=true&hide_border=true&theme=default&locale=cn) 
 ![](https://github-profile-trophy.vercel.app/?username=cnSchwarzer&column=10)
 
 ## 最新项目
-❤ 新项目都挪到 [reitovo](https://github.com/reitovo) 去了喵
+❤ [reitovo](https://github.com/reitovo) 在这里
   
 ## 自我介绍 
 💡 什么都玩点
