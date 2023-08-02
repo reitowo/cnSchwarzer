@@ -4,10 +4,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=cnSchwarzer&column=10)
 
 ## 最新项目
-❤ [reitovo](https://github.com/reitovo) 在这里
+👨‍💻 [reitovo](https://github.com/reitovo) 在这里
   
 ## 自我介绍 
-💡 什么都玩点
+💡 什么都玩点的社畜猫猫一只
 
 ## 博客及社交媒体
 - [个人主页](https://www.sch.ink)
@@ -19,7 +19,5 @@
 ## 主要作品
 - [Layesta](https://www.taptap.com/app/159199)（一款音乐游戏Lanota的社区模拟器，设计了服务器分享） 
 - [弹幕姬](https://sch.ink) （B站弹幕姬优化版）
-- [某游戏xLua分析](https://www.anquanke.com/post/id/231798)（原神的xLua分析）
-- [原神动态伤害显示](https://www.bilibili.com/video/BV1Sy4y1E73y/)（完全基于KCP包分析，当然早期也花了很多小号注入逆向😅）
 - [国服Cytus2解密与C#注入](https://blog.schwarzer.wang/2019/07/20/sec.android.cytus2/)（早期对Cytus保护Mono编译DLL的研究）
 - [Oboe For Unity](https://publisher.assetstore.unity3d.com/package.html?id=575852)（一个Unity高性能音频插件）
